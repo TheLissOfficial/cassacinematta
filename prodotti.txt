@@ -2,10 +2,11 @@
 8004,Coca Cola,3.50,Bevande
 8002,Coca Cola Zero,5.00,Bevande
 8005,Coca Cola 3zero,3.50,Bevande
-8006,Sprite 0.5L,3.50,Bevande
+8006,The Limone,3.50,Bevande
 8007,Acqua Naturale,1.50,Bevande
 8008,Acqua Frizzante,1.50,Bevande
-8009,Patatine,2.50,Snack
+8009,Patatine Paprika,2.50,Snack
+8009,Patatine Classiche,2.50,Snack
 8011,Haribo Coccodrilli,2.00,Snack
 8012,M&M's Peanut,3.00,Snack
 8013,Chocolate C. Rolls,2.50,Snack
